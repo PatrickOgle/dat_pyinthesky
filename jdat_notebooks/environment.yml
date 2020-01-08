@@ -23,7 +23,7 @@ dependencies:
   - pyregion
   - webbpsf>=0.8
   - scikit-learn
-  - lmfit=0.9.13 
+  - lmfit==0.9.13 
   - specutils
   - dill
 
